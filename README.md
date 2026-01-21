@@ -36,8 +36,7 @@
 ---
 
 ## 📫 Let’s Connect  
-- **LinkedIn:** [linkedin.com/in/mohamed-gad-eng](https://www.linkedin.com/in/mohamed-gad-eng/)  
-- **Email:** mohamed.gad.eng@gmail.com  
+- **Email:** [mohamed.gad.eng@gmail.com](mailto:Mohamed.gad.eng@gmail.com)  
 
 ---
 
