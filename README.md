@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Mohamed Alaa  
+# 👋 Hi, I’m Mohamed Gad  
 
 🎓 **Computer Engineering Graduate | Backend Developer**  
 💻 Passionate about building **scalable backend systems**, APIs, and full-stack web applications.  
