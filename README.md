@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/llinked_in_background.jpeg" alt="Banner" width="100%" />
-</p>
-
 # 👋 Hi, I’m Mohamed Gad
 
 🎓 **Computer Engineering Graduate | Backend Developer**  
